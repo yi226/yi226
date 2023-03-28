@@ -4,7 +4,7 @@ I'm a flutter application & CV developer from China.
 
 **About me**
 
-- 💼 University at HUST
+- 💼 University at ***
 
 - 📈 Built flutter projects
 
