@@ -19,13 +19,11 @@ I'm a flutter application & CV developer from China.
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 #### Top Repositories
-|<a href="https://github.com/yi226/auto_scaffold_easy">
+<a href="https://github.com/yi226/auto_scaffold_easy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yi226&repo=auto_scaffold_easy&theme=buefy" />
-</a>|<a href="https://github.com/yi226/yi226.github.io">
+</a> <a href="https://github.com/yi226/yi226.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yi226&repo=yi226.github.io&theme=buefy" />
-</a>|
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
+</a>
 
 <br />
 <br />
