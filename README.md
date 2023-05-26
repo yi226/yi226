@@ -1,14 +1,12 @@
 <p align="center"><a href="https://yi226.github.io"><img width="80%" alt="Hello, I'm Alfie. I do open source!" src="./assets/readme-header.png" /></a></p>
 
-I'm a flutter application developer from China.
-
 **About me**
 
 - 💼 University at ***
 
 - 📈 Built flutter projects
 
-- ❤️ I love writing Flutter and Python
+- ❤️ I love Flutter and Python
 
 - 💬 Ask me about anything
 
