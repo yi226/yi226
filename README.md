@@ -2,10 +2,6 @@
 
 **About me**
 
-- 💼 University at ***
-
-- 📈 Built flutter projects
-
 - ❤️ I love Flutter and Python
 
 - 💬 Ask me about anything
